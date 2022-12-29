@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icons/Outlined/Dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Desktop" transform="translate(-1244.000000, -2795.000000)">
+            <g id="Group-13" transform="translate(174.000000, 2595.000000)">
+                <g id="input-field" transform="translate(885.000000, 172.000000)">
+                    <g id="Icons/Outlined/Dropdown" transform="translate(176.000000, 21.000000)">
+                        <g id="icon_Dropdown">
+                            <g>
+                                <rect id="Icon-boundaries" x="0" y="0" width="24" height="24"></rect>
+                                <path d="M12.0068602,8.81648342 L9.90800012,10.8649406 L9,9.93459883 L12.0068056,7 L15.0139451,9.93457152 L14.106001,10.8649679 L12.0068602,8.81648342 Z M9.90800012,13.0000273 L12.0068602,15.0484845 L14.106001,13 L15.0139451,13.9303964 L12.0068056,16.8649679 L9,13.9303691 L9.90800012,13.0000273 Z" id="Shape" fill="#000000" opacity="0.5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
